@@ -1,0 +1,3096 @@
+[
+  {
+    "id": "lvl-001",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-002",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-003",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-004",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-005",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-006",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-007",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-008",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-009",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-010",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-011",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-012",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-013",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-014",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-015",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-016",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-017",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-018",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-019",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-020",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-021",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-022",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-023",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-024",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-025",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-026",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-027",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-028",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-029",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-030",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-031",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-032",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-033",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-034",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-035",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-036",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-037",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-038",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-039",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-040",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-041",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-042",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-043",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-044",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-045",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-046",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-047",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-048",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-049",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-050",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-051",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-052",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-053",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-054",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-055",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-056",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-057",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-058",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-059",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-060",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-061",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-062",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-063",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-064",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-065",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-066",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-067",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-068",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-069",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-070",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-071",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-072",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-073",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-074",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-075",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-076",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-077",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-078",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-079",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-080",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-081",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-082",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-083",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-084",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-085",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-086",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-087",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-088",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-089",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-090",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-091",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-092",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-093",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-094",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-095",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-096",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-097",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-098",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-099",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-100",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-101",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-102",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-103",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-104",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-105",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-106",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-107",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-108",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-109",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-110",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-111",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-112",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-113",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-114",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-115",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-116",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-117",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-118",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-119",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-120",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-121",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-122",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-123",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-124",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-125",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-126",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-127",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-128",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-129",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-130",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-131",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-132",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-133",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-134",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-135",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-136",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-137",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-138",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-139",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-140",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-141",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-142",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-143",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-144",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-145",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-146",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-147",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-148",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-149",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-150",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-151",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-152",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-153",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-154",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-155",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-156",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-157",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-158",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-159",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-160",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-161",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-162",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-163",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-164",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-165",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-166",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-167",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-168",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-169",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-170",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-171",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-172",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-173",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-174",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-175",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-176",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-177",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-178",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-179",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-180",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-181",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-182",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-183",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-184",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-185",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-186",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-187",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-188",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-189",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-190",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-191",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-192",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-193",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-194",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-195",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-196",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-197",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-198",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-199",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-200",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-201",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-202",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-203",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-204",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-205",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-206",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-207",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-208",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-209",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-210",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-211",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-212",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-213",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-214",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-215",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-216",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-217",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-218",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-219",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-220",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-221",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-222",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-223",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-224",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-225",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-226",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-227",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-228",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-229",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-230",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-231",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-232",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-233",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-234",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-235",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-236",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-237",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-238",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-239",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-240",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-241",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-242",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-243",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-244",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-245",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-246",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-247",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-248",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-249",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-250",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-251",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-252",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-253",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-254",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-255",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-256",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-257",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-258",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-259",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-260",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-261",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-262",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-263",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-264",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-265",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-266",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-267",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-268",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-269",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-270",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-271",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-272",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-273",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-274",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-275",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-276",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-277",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-278",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-279",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-280",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-281",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-282",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-283",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-284",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-285",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-286",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-287",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-288",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-289",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-290",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-291",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-292",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-293",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-294",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-295",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-296",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-297",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-298",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-299",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-300",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-301",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-302",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-303",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-304",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-305",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-306",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-307",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-308",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-309",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-310",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-311",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-312",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-313",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-314",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-315",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-316",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-317",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-318",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-319",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-320",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-321",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-322",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-323",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-324",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-325",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-326",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-327",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-328",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-329",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-330",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-331",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-332",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-333",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-334",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-335",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-336",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-337",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-338",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-339",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-340",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-341",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-342",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-343",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-344",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-345",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-346",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-347",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-348",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-349",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-350",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-351",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-352",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-353",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-354",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-355",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-356",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-357",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-358",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-359",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-360",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-361",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-362",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-363",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-364",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-365",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-366",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-367",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-368",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-369",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-370",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-371",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-372",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-373",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-374",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-375",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-376",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-377",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-378",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-379",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-380",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-381",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-382",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-383",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-384",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-385",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-386",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-387",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-388",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-389",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-390",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-391",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-392",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-393",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-394",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-395",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-396",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-397",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-398",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-399",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-400",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-401",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-402",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-403",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-404",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-405",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-406",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-407",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-408",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-409",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-410",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-411",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-412",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-413",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-414",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-415",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-416",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-417",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-418",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-419",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-420",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-421",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-422",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-423",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-424",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-425",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-426",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-427",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-428",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-429",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-430",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-431",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-432",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-433",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-434",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-435",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-436",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-437",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-438",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-439",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-440",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-441",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  },
+  {
+    "id": "lvl-442",
+    "solutions": 1,
+    "unique": true,
+    "matches": true,
+    "min_domain": 1
+  }
+]

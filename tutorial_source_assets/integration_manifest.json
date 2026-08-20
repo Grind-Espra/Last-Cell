@@ -1,0 +1,15 @@
+{
+  "source_archive": "last_cell_v9_updated_mobile_442.zip",
+  "source_graphics_found": [],
+  "source_graphics_note": "The source archive contains no standalone PNG/JPG/WebP/SVG image files. Its tutorial visuals are generated in app/app.js and app/styles.css.",
+  "integrated_source_sections": [
+    "how() tutorial markup",
+    "how-card/how-visual styling",
+    "learn-piece animation",
+    "cross-board row/column animation",
+    "proximity grid",
+    "final-example board",
+    "arrow/ring animation patterns"
+  ],
+  "integration_target": "v12 archive tutorial visual system adapted to current modal tutorial UI"
+}
